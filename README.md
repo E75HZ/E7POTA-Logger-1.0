@@ -1,17 +1,17 @@
-# e7pota_logger
+# E7POTA Logger
 
-A new Flutter project.
+Portable logger for Parks On The Air (POTA).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Offline logging
+- Park2Park support
+- ADIF export
+- Android
+- Windows
 
-A few resources to get you started if this is your first Flutter project:
+## Opis
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+E7POTA Logger je mala aplikacija za naše POTA aktivatore.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Author: E75HZ
